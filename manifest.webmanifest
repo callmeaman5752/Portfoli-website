@@ -1,0 +1,9 @@
+{
+  "name": "Aman Sharma Portfolio",
+  "short_name": "Aman Sharma",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f18",
+  "theme_color": "#0a0f18",
+  "icons": []
+}

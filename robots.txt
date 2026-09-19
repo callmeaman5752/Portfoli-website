@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amansharma.com.np/sitemap.xml
